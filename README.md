@@ -4,7 +4,7 @@ Hello, World!!!
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Something</title>
+    <title> Something </title>
   </head>
   <body>
     <h1>My first individual website</h1>
