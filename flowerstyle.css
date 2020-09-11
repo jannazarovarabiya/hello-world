@@ -1,0 +1,24 @@
+body{border-style: groove;
+  padding:5%;
+  margin:5%;
+  background-color:skyblue;}
+  p{border-style: double;;}
+button{border:solid;
+  border-style: inset;
+  border-color: orange;
+  margin: 10px;
+  margin-left: 5%;
+font-size: 25px;
+font-family: Tangerine;}
+h1{text-align:center;
+font-weight:bolder;
+font-size: 40px}
+#ha{font-size: 35px;}
+#haha{font-size:30px;
+color: red;}
+p{font-size: 20px;}
+img{margin: 10px;
+  margin-left: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  }
